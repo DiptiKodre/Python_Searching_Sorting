@@ -1,3 +1,6 @@
+#TC = O(n^2)-->avg/worst case and O(n)--> best case(sorted array)
+#SC = O(1)
+
 nums = [5,1,6,8,2,4,9,3,7]
 
 print("Array before sorting : ",nums)
